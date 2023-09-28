@@ -2,7 +2,13 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.time.format.TextStyle;
 import java.util.Locale;
-
+/**
+ * @author nstsy
+ * Nama : Anastasya azami
+ * NIM : 41822010081
+ * Nama : Syadella Putri Ardana
+ * NIM: 41822010037
+ */
 public class PBO_41822010081_LATIHAN26 {
     public static void main(String[] args) {
         
